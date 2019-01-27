@@ -28,12 +28,19 @@ http://localhost/tofi-online-matchmaking-system/
 to run the app.
 
 ## App demo
+## homepage
 [!schema](README-assets/snapshot-1.jpg)
+## more homepage
 [!schema](README-assets/snapshot-2.jpg)
+## login page
 [!schema](README-assets/snapshot-3.jpg)
+## User matches 
 [!schema](README-assets/snapshot-4.jpg)
+## hangout history
 [!schema](README-assets/snapshot-5.jpg)
+## Edit profile
 [!schema](README-assets/snapshot-6.jpg)
+## View matched user profile
 [!schema](README-assets/snapshot-7.jpg)
 
 
