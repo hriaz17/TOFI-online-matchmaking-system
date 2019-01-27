@@ -29,7 +29,7 @@ to run the app.
 
 
 ## homepage
-[!homepage](https://github.com/harisriaz17/TOFI-online-matchmaking-system/README-assets/snapshot-1.JPG)
+[!homepage](https://github.com/harisriaz17/TOFI-online-matchmaking-system/tree/master/README-assets/snapshot-1.JPG)
 ## more homepage
 [!more](/README-assets/snapshot-2.JPG)
 ## login page
