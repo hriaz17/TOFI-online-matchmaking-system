@@ -15,7 +15,7 @@ Through our web app we hope to address this problem.
 - Feedback about hangouts is stored. Users will be allowed to rate each other and this rating, along with a specification of whether they will meet again or not will also be stored.
 
 ## Relational DBMS Schema:
-[!schema](README-assets/snapshot-8.JPG)
+[!schema](/README-assets/snapshot-8.JPG)
 
 ## Setup instructions
 - You must have Xampp server installed. Clone this repo inside htdocs folder of Xampp server.
@@ -29,18 +29,18 @@ to run the app.
 
 
 ## homepage
-[!](README-assets/snapshot-1.JPG)
+[!](/README-assets/snapshot-1.JPG)
 ## more homepage
-[!](README-assets/snapshot-2.JPG)
+[!](/README-assets/snapshot-2.JPG)
 ## login page
-[!](README-assets/snapshot-3.JPG)
+[!](/README-assets/snapshot-3.JPG)
 ## User matches 
-[!](README-assets/snapshot-4.JPG)
+[!](/README-assets/snapshot-4.JPG)
 ## hangout history
-[!](README-assets/snapshot-5.JPG)
+[!](/README-assets/snapshot-5.JPG)
 ## Edit profile
-[!](README-assets/snapshot-6.JPG)
+[!](/README-assets/snapshot-6.JPG)
 ## View matched user profile
-[!](README-assets/snapshot-7.JPG)
+[!](/README-assets/snapshot-7.JPG)
 
 
