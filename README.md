@@ -29,18 +29,18 @@ to run the app.
 
 ## App demo
 ## homepage
-[!schema](README-assets/snapshot-1.JPG)
+[!](README-assets/snapshot-1.JPG)
 ## more homepage
-[!schema](README-assets/snapshot-2.JPG)
+[!](README-assets/snapshot-2.JPG)
 ## login page
-[!schema](README-assets/snapshot-3.JPG)
+[!](README-assets/snapshot-3.JPG)
 ## User matches 
-[!schema](README-assets/snapshot-4.JPG)
+[!](README-assets/snapshot-4.JPG)
 ## hangout history
-[!schema](README-assets/snapshot-5.JPG)
+[!](README-assets/snapshot-5.JPG)
 ## Edit profile
-[!schema](README-assets/snapshot-6.JPG)
+[!](README-assets/snapshot-6.JPG)
 ## View matched user profile
-[!schema](README-assets/snapshot-7.JPG)
+[!](README-assets/snapshot-7.JPG)
 
 
