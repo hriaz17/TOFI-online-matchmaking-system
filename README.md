@@ -14,8 +14,12 @@ Through our web app we hope to address this problem.
 - Each hangout can have at most 2 separate feedbacks associated with it (given by each of the 2 participating users).
 - Feedback about hangouts is stored. Users will be allowed to rate each other and this rating, along with a specification of whether they will meet again or not will also be stored.
 
-## Relational DBMS Schema:
+## Relational EERD:
 [!schema](/README-assets/snapshot-8.JPG)
+
+## Relational DBMS Schema:
+[!schema](/README-assets/snapshot-9.JPG)
+
 
 ## Setup instructions
 - You must have Xampp server installed. Clone this repo inside htdocs folder of Xampp server.
