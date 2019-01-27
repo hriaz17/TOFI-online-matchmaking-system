@@ -19,7 +19,7 @@ Through our web app we hope to address this problem.
 
 ## Setup instructions
 - You must have Xampp server installed. Clone this repo inside htdocs folder of Xampp server.
--Import the file relationshipdb.sql into Xampp server.
+- Import the file relationshipdb.sql into Xampp server.
 - Open Phpmyadmin to view database and its contents
 - In your browser type address:
 ```
