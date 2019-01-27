@@ -27,7 +27,7 @@ http://localhost/tofi-online-matchmaking-system/
 ```
 to run the app.
 
-## App demo
+
 ## homepage
 [!](README-assets/snapshot-1.JPG)
 ## more homepage
