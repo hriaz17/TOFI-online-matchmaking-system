@@ -29,18 +29,18 @@ to run the app.
 
 
 ## homepage
-[!](/README-assets/snapshot-1.JPG)
+[!homepage](/README-assets/snapshot-1.JPG)
 ## more homepage
-[!](/README-assets/snapshot-2.JPG)
+[!more](/README-assets/snapshot-2.JPG)
 ## login page
-[!](/README-assets/snapshot-3.JPG)
+[!login](/README-assets/snapshot-3.JPG)
 ## User matches 
-[!](/README-assets/snapshot-4.JPG)
+[!matches](/README-assets/snapshot-4.JPG)
 ## hangout history
-[!](/README-assets/snapshot-5.JPG)
+[!hangout](/README-assets/snapshot-5.JPG)
 ## Edit profile
-[!](/README-assets/snapshot-6.JPG)
+[!editprofile](/README-assets/snapshot-6.JPG)
 ## View matched user profile
-[!](/README-assets/snapshot-7.JPG)
+[!matchedusers](/README-assets/snapshot-7.JPG)
 
 
