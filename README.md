@@ -15,7 +15,7 @@ Through our web app we hope to address this problem.
 - Feedback about hangouts is stored. Users will be allowed to rate each other and this rating, along with a specification of whether they will meet again or not will also be stored.
 
 ## Relational DBMS Schema:
-[!schema](assets/snapshot-1.jpg)
+[!schema](/README-assets/snapshot-8.JPG)
 
 ## Setup instructions
 - You must have Xampp server installed. Clone this repo inside htdocs folder of Xampp server.
@@ -23,8 +23,24 @@ Through our web app we hope to address this problem.
 - Open Phpmyadmin to view database and its contents
 - In your browser type address:
 ```
-http://localhost/tofi/
+http://localhost/tofi-online-matchmaking-system/
 ```
 to run the app.
 
-## App demo
+
+## homepage
+[!homepage](https://github.com/harisriaz17/TOFI-online-matchmaking-system/tree/master/README-assets/snapshot-1.JPG)
+## more homepage
+[!more](/README-assets/snapshot-2.JPG)
+## login page
+[!login](/README-assets/snapshot-3.JPG)
+## User matches 
+[!matches](/README-assets/snapshot-4.JPG)
+## hangout history
+[!hangout](/README-assets/snapshot-5.JPG)
+## Edit profile
+[!editprofile](/README-assets/snapshot-6.JPG)
+## View matched user profile
+[!matchedusers](/README-assets/snapshot-7.JPG)
+
+
