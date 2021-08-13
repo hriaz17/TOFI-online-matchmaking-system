@@ -15,7 +15,7 @@ Through our web app we hope to address this problem.
 - Feedback about hangouts is stored. Users will be allowed to rate each other and this rating, along with a specification of whether they will meet again or not will also be stored.
 
 ## Relational EERD:
-![schema](/README-assets/snapshot-8.JPG =250x250)
+![schema](/README-assets/snapshot-8.JPG = 250x250)
 
 
 ## Relational DBMS Schema:
